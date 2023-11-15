@@ -1,6 +1,5 @@
-# client_pemob_app
+# Bus App with Flutter
 
-A new Flutter project.
 
 ## Getting Started
 
